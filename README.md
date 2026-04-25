@@ -4,6 +4,13 @@ Este projeto é uma implementação de **Skeleton Loading** (telas de carregamen
 
 ---
 
+## 🔗 Links do Projeto
+
+- **Repositório:** [github.com/rubenmassuquetto1999/skeleton-loading-vanilla](https://github.com/rubenmassuquetto1999/skeleton-loading-vanilla)
+- **Deploy (Live Demo):** [rubenmassuquetto1999.github.io/skeleton-loading-vanilla/](https://rubenmassuquetto1999.github.io/skeleton-loading-vanilla/)
+
+---
+
 ## 🚀 Sobre o Projeto
 
 O Skeleton Loading é uma técnica de design que exibe uma versão simplificada da interface (geralmente blocos cinzas pulsantes) enquanto o conteúdo real está sendo processado ou buscado em uma API. Isso reduz a percepção de tempo de espera e evita mudanças bruscas de layout (Cumulative Layout Shift).
@@ -28,12 +35,13 @@ O Skeleton Loading é uma técnica de design que exibe uma versão simplificada 
 
 ## 📸 Demonstração
 
-![Preview do Projeto](https://raw.githubusercontent.com/rubenmassuquetto1999/skeleton-loading-vanilla/main/preview.png)
-*(Dica: Adicione um print do seu projeto na raiz do repositório com o nome preview.png para que a imagem apareça aqui)*
+![Preview do Projeto](preview.png)
+
+*(Nota: A imagem acima é carregada do arquivo `preview.png` na raiz deste repositório.)*
 
 ---
 
-## 📥 Como executar o projeto
+## 📥 Como executar o projeto localmente
 
 1. Clone este repositório:
    ```bash
