@@ -4,16 +4,15 @@ Este projeto é uma implementação de **Skeleton Loading** (telas de carregamen
 
 ---
 
-## 🔗 Links do Projeto
+## 🔗 Link do Deploy
 
-- **Repositório:** [github.com/rubenmassuquetto1999/skeleton-loading-vanilla](https://github.com/rubenmassuquetto1999/skeleton-loading-vanilla)
-- **Deploy (Live Demo):** [rubenmassuquetto1999.github.io/skeleton-loading-vanilla/](https://rubenmassuquetto1999.github.io/skeleton-loading-vanilla/)
+🚀 **Acesse o projeto online aqui:** [https://rubenmassuquetto1999.github.io/skeleton-loading-vanilla/](https://rubenmassuquetto1999.github.io/skeleton-loading-vanilla/)
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-O Skeleton Loading é uma técnica de design que exibe uma versão simplificada da interface (geralmente blocos cinzas pulsantes) enquanto o conteúdo real está sendo processado ou buscado em uma API. Isso reduz a percepção de tempo de espera e evita mudanças bruscas de layout (Cumulative Layout Shift).
+O Skeleton Loading é uma técnica de design que exibe uma versão simplificada da interface enquanto o conteúdo real está sendo processado ou buscado. Isso reduz a percepção de tempo de espera e evita mudanças bruscas de layout (Cumulative Layout Shift).
 
 ### Principais Funcionalidades:
 - **Efeito Shimmer:** Animação de brilho que percorre os elementos de esqueleto.
@@ -30,14 +29,6 @@ O Skeleton Loading é uma técnica de design que exibe uma versão simplificada 
   - Keyframes para as animações `shimmer` e `fadeIn`.
   - Background-clip para texto com gradiente.
 - **JavaScript (Vanilla):** Manipulação de DOM, renderização dinâmica de elementos e controle de estado.
-
----
-
-## 📸 Demonstração
-
-![Preview do Projeto](preview.png)
-
-*(Nota: A imagem acima é carregada do arquivo `preview.png` na raiz deste repositório.)*
 
 ---
 
